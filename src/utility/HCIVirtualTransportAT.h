@@ -22,7 +22,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "WiFiS3.h"
+#include <WiFiS3.h>
 
 class HCIVirtualTransportATClass : public HCITransportInterface {
 public:
